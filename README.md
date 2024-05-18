@@ -1,26 +1,10 @@
 # Engineering Educator
 
-#### Technical Skills: 
 
 ## Education					       		
-- M.S., Physics	| Cal Poly Pomona (_December 2021_)	 			        		
-
-## Work Experience
-**...**
-- 
-- 
-
-**...**
-- 
-- 
+- M.S., Civil Engineering	| Cal Poly Pomona (_December 2021_)
+- B.S., Civil Engineering | San Diego State Univeristy (_May 2015_)        		
 
 ## Projects
-### D
-[Publication](https://)
-
-
-## Talks & Lectures
-
-
-## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
+### Green Up Pavement Rehabilitation Design Tool
+[Publication]([https://](https://transweb.sjsu.edu/sites/default/files/1855-Andrei-Pavement-Decision-Tool_0.pdf))
