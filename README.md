@@ -51,3 +51,7 @@
 **Research Assistant @ SDSU Research Foundation (_February 2014 - May 2014_)**
 - Provide assistance with various (structural testing) projects that require the use of the shake table at SDSU.
 - Setup/modification of various testing equipment such as displacement and acceleration measurement devices as well as shake table components.
+
+## Publications
+1. “Predicting the Global Warming Potential for Portland Cement Concrete,” Master’s Thesis, California State Polytechnic University, Pomona, Pomona, California, May 2021.
+2. "Green Up Pavement Pehabilitation Design Tool” Mineta Transportation Institute Publications, December 2019, REPORT 19-37, with Dragos Andrei, and Jose H. Perez.
