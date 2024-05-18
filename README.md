@@ -36,7 +36,7 @@
 **Graduate Student Assistant @ Cal Poly Pomona Foundation, Inc. (_May 2018 - May 2019_)**
 - CSUTC 1855, Green Up Pavement Rehabilitation Design Tool. 
 - Principal Investigator: Dragos Andrei, Ph.D., P.E., PRRC Director
-[Publication]([https://www.mdpi.com/1424-8220/22/8/3048](https://transweb.sjsu.edu/sites/default/files/1855-Andrei-Pavement-Decision-Tool_0.pdf))
+[Publication](https://transweb.sjsu.edu/research/1855-Pavement-Decision-Tool)
 
 **Student Research Apprentice Collaborator @ California State Polytechnic University-Pomona (_July 2018 - August 2018_)**
 - Supervised and mentored a team of STEM students participating in the Summer Undergraduate Research Experience (SURE) program. The team performed a bench-scale experiment in the hydraulics laboratory to determine the removal efficiency of an advanced oxidation process (AOP) based on UV irradiation combined with hydrogen peroxide (UV/H2O2) degradation of trace organic compounds in wastewater.
