@@ -1,6 +1,7 @@
 # Engineering Educator
 
 
+
 ## Education					       		
 - M.S., Civil Engineering	| Cal Poly Pomona (_December 2021_)
 - B.S., Civil Engineering | San Diego State Univeristy (_May 2015_)        		
