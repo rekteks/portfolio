@@ -1,7 +1,5 @@
 # Engineering Educator, Identity & Security Architect
 
-
-
 ## Education						       		
 - M.S., Civil Engineering | California State Polytechnic University-Pomona (_December 2021_)
 - B.S., Civil Engineering | San Diego State University (_May 2015_)
