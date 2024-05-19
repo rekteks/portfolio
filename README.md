@@ -1,4 +1,4 @@
-# Engineering Educator, Identity & Security Architect 
+# Engineering Educator, Identity & Security Architect
 
 
 
