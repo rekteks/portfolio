@@ -12,7 +12,7 @@
 - Our team specializes in deployment and management of hardware, software, apps, and services
 - Enterprise deployment, remote management, managed IT services
 
-**Adjunct Professor @ California State Polytechnic University-Pomona (_January 22022 - June 2023_)**
+**Adjunct Professor @ California State Polytechnic University-Pomona (_January 2022 - June 2023_)**
 - Teach 2000-level and 3000-level courses in the EMSET program:
 - Engineering Mechanics: Statics & Dynamics 
 - Applied Fluid Mechanics II
