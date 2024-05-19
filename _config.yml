@@ -1,4 +1,5 @@
 title: Robert Erik Kochan 
-logo: img/protfolio_headshot.png
+logo: /img/headhot_REK.png
 #description: text below image
+show_downloads: true
 theme: jekyll-theme-minimal
